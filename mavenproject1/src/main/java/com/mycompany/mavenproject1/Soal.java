@@ -32,4 +32,32 @@ public class Soal {
     public int perkalian(int bilA, int bilB){
         return bilA * bilB;
     }
+    
+    public void test1_method1(){
+        System.out.println("Ini test 1 buat method 1");
+    }
+    
+    public void test2_method1(){
+        System.out.println("Udah nyerah");
+    }
+    
+    public void test1_method2(){
+        System.out.println("Tapi terus nyoba, sampe waktu abis");
+    }
+    
+    public void test2_method2(){
+        System.out.println("Ini kenapa kang jUnit ny, aduh");
+    }
+    
+    public void test1_method3(){
+        System.out.println("jUnit gak bisa diimport. ini maven, dey");
+    }
+    
+    public void test2_method3(){
+        System.out.println("End of session, not end of life *breathe* *breathhard*");
+    }
+    
+    public static void main(String[] args) {
+        
+    }
 }
